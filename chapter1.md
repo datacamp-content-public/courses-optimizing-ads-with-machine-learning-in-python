@@ -3,40 +3,13 @@ title: 'Chapter Title Here'
 description: 'Chapter description goes here.'
 ---
 
-## Example coding exercise
+## Feature Engineering
 
 ```yaml
-type: NormalExercise
-key: e8c1edbe67
-lang: python
-xp: 100
-skills: 2
+type: VideoExercise
+key: d04facdb02
+xp: 50
 ```
 
-This is an example exercise.
-
-`@instructions`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-```{python}
-
-```
-
-`@sample_code`
-```{python}
-
-```
-
-`@solution`
-```{python}
-
-```
-
-`@sct`
-```{python}
-
-```
+`@projector_key`
+b00250667d0d70cb52717105aaa88908
